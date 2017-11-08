@@ -22,6 +22,19 @@ h1, h2, h3, p {
   color: #222;
 }
 
+.back-btn{
+  font-size: 20px;
+  height: 63px;
+  width: 250px;
+  margin: 0;
+  border: solid 2px lightgray;
+  background: none;
+  display: block;
+  cursor: pointer;
+  color: #222;
+  font-family: 'Crimson Text', serif;
+}
+
 .btn:focus {
   outline: none;
 }
